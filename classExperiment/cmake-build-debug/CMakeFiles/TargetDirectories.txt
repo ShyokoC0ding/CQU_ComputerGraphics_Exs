@@ -1,3 +1,0 @@
-E:/CG_pra/classExperiment/cmake-build-debug/CMakeFiles/OpenGL.dir
-E:/CG_pra/classExperiment/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/CG_pra/classExperiment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
